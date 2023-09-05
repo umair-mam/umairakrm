@@ -25,7 +25,7 @@ I'm always open to collaborations, mentorship, or just a friendly chat about tec
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairakrm&show_icons=true&theme=radical)
 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](Your Twitter Profile Link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/umair-akram2)
-
 
 Thanks for stopping by! Explore my repositories, and let's make the tech world a little more exciting, one project at a time. 🌟
