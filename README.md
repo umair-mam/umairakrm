@@ -19,7 +19,7 @@ I'm always open to collaborations, mentorship, or just a friendly chat about tec
 
 ### 📈 Languages Used
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umairakrm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 GitHub Stats
 
