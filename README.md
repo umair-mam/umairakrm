@@ -15,7 +15,7 @@ I'm a passionate individual with a strong interest in software engineering and t
 
 ### 🌏 Let's Connect
 
-I'm always open to collaborations, mentorship, or just a friendly chat about technology and innovation. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/umair-akram2) or [Twitter](Your Twitter Profile Link). Let's build amazing things together! 🚀
+I'm always open to collaborations, mentorship, or just a friendly chat about technology and innovation. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/umair-akram2) or [Twitter](https://twitter.com/umair_akrm). Let's build amazing things together! 🚀
 
 ### 📈 Languages Used
 
@@ -25,7 +25,9 @@ I'm always open to collaborations, mentorship, or just a friendly chat about tec
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=umairakrm&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-akram2)
 
 
 Thanks for stopping by! Explore my repositories, and let's make the tech world a little more exciting, one project at a time. 🌟
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-akram2)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/umair_akrm)
