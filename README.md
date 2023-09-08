@@ -30,6 +30,5 @@ I'm always open to collaborations, mentorship, or just a friendly chat about tec
 Thanks for stopping by! Explore my repositories, and let's make the tech world a little more exciting, one project at a time. 🌟
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-akram2)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/umair_akrm)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/(https://twitter.com/umair_akrm))
 
 
