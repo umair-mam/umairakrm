@@ -19,10 +19,10 @@ I'm always open to collaborations, mentorship, or just a friendly chat about tec
 
 ### 📈 Languages Used
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umairakrm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?umairakrm=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairakrm&show_icons=true&theme=radical)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?umairakrm=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
 
 Thanks for stopping by! Explore my repositories, and let's make the tech world a little more exciting, one project at a time. 🌟
