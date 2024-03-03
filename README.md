@@ -30,11 +30,11 @@ I'm always open to collaborations, mentorship, or just a friendly chat about tec
 
 ### 📈 Languages Used
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umairakrm&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umair-mam&langs_count=5&theme=tokyonight)]()
 
 ### 📊 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=umairakrm&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=umair-mam&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 
