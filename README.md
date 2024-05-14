@@ -35,14 +35,6 @@ I'm always open to collaborations, mentorship, or just a friendly chat about tec
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=umair-mam&count_private=true&theme=tokyonight&showicons=true)]()
 
----
-
-
-### :chart_with_upwards_trend: GitHub Activity
-[![Umair Akram's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=umair-mam&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)](https://github.com/umair-mam)
-
----
-
 Thanks for stopping by! Explore my repositories, and let's make the tech world a little more exciting, one project at a time. 🌟
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-akram2)
